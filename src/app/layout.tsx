@@ -7,7 +7,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], display: "swap", variable: "--font-inter" });
 const hind = Hind_Siliguri({ subsets: ["bengali", "latin"], weight: ["500"], display: "swap", variable: "--font-bn" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://hsc.readnap.com";
 const shareDescription =
   "Plan your study days, track your syllabus, manage revision, and log your tests. Free, saves in your browser, no account needed.";
 
