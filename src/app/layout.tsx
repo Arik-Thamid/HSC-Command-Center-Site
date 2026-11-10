@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: SITE.title,
-    description: "A free study command center for HSC 2027 Science students.",
+    description: "A free study command center for HSC  Science students.",
     images: ["/og-image.png"],
   },
   icons: {
@@ -54,7 +54,7 @@ const JSON_LD = {
   "@context": "https://schema.org",
   "@type": "WebApplication",
   name: SITE.name,
-  description: "A free study command center for HSC 2027 Science students: syllabus tracker, daily planner, revision system and test log.",
+  description: "A free study command center for HSC Science students: syllabus tracker, daily planner, revision system and test log.",
   applicationCategory: "EducationalApplication",
   operatingSystem: "Any web browser",
   url: SITE.appUrl,
