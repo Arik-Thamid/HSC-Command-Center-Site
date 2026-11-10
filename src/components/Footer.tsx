@@ -13,7 +13,7 @@ export function Footer() {
       <div className="wrap">
         <div>
           <a className="logo" href="#top"><i></i>{SITE.name}</a>
-          <p style={{ maxWidth: "36ch" }}>A free study command center for HSC 2027 Science students.</p>
+          <p style={{ maxWidth: "36ch" }}>A free study command center for HSC Science students.</p>
           <p>© {new Date().getFullYear()} {SITE.name}</p>
         </div>
         <div className="c">

@@ -6,7 +6,7 @@ export function Tutorial() {
     <section id="tutorial">
       <div className="wrap center">
         <div className="sec-eye mono rv">Tutorial</div>
-        <h2 className="rv">Learn it in ten minutes.</h2>
+        <h2 className="rv">Learn it in five minutes.</h2>
         <p className="sub rv">A step-by-step guide, from the first visit to your weekly routine.</p>
         <div className="tut rv">
           {TUTORIAL.map((g, i) => (
