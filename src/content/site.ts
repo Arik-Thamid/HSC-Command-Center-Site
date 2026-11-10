@@ -8,7 +8,7 @@ export const SITE = {
   title: "HSC Command Center — Your HSC Study Management Platform",
   description:
     "Organize your HSC full preparation with HSC Command Center. Plan your study days, track your syllabus, manage revision, and keep your academic journey organized.",
-  appUrl: "https://hsc.readnap.com",
+  appUrl: "https://hsc-command-center.vercel.app/",
 } as const;
 
 export const NAV = [
