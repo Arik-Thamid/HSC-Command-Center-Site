@@ -5,10 +5,10 @@
 
 export const SITE = {
   name: "HSC Command Center",
-  title: "HSC Command Center — Your HSC 2027 Study Management Platform",
+  title: "HSC Command Center — Your HSC Study Management Platform",
   description:
-    "Organize your HSC 2027 preparation with HSC Command Center. Plan your study days, track your syllabus, manage revision, and keep your academic journey organized.",
-  appUrl: "https://hsc-command-center.vercel.app/",
+    "Organize your HSC full preparation with HSC Command Center. Plan your study days, track your syllabus, manage revision, and keep your academic journey organized.",
+  appUrl: "https://hsc.readnap.com",
 } as const;
 
 export const NAV = [
@@ -386,7 +386,7 @@ export const TUTORIAL: TutorialItem[] = [
 export const FAQ: { q: string; a: string }[] = [
   {
     "q": "What is HSC Command Center?",
-    "a": "A free study command center for HSC 2027 Science students in Bangladesh: syllabus tracker, daily planner, revision system, and test log in one place."
+    "a": "A free study command center for HSC Science students in Bangladesh: syllabus tracker, daily planner, revision system, and test log in one place."
   },
   {
     "q": "Is it free? Do I need an account?",
