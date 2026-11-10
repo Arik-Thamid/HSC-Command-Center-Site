@@ -9,7 +9,7 @@ export function Hero() {
       <i className="orb" data-s=".25" style={{ left: -80, top: 120 }}></i>
       <i className="orb" data-s="-.15" style={{ right: -100, top: 320, background: "radial-gradient(circle,#64d89b,transparent 70%)", opacity: 0.16 }}></i>
       <div className="wrap" style={{ position: "relative" }}>
-        <div className="eyebrow mono">HSC 2027 · Your academic command center</div>
+        <div className="eyebrow mono">HSC Batch · Your academic command center</div>
         <h1>
           <span><b>Your HSC Journey.</b></span>
           <span><b>Under Control.</b></span>
